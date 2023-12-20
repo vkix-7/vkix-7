@@ -1,4 +1,4 @@
-[](https://media.licdn.com/dms/image/D4D16AQG3OFj9Xtpy9w/profile-displaybackgroundimage-shrink_350_1400/0/1679863104465?e=1687392000&v=beta&t=eqf_BwSUd1iQOWK-F-oLaWs1AsnPjwXsPKR3ZMXfzlE)
+<img src="https://user-images.githubusercontent.com/71772559/116590419-1b64a780-a8f4-11eb-9865-c50bd9dceeb0.png" width="100%" />
 <h1 align="center">HeY, I'm Vijay Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 <h3 align="center">A passionate Software developer from India </h3>
 
@@ -10,8 +10,11 @@
 - 💬 Ask me about **CLOUD & DEVOPS**
 
 - ⚡ Fun fact **I am THALASSOPHILE .**
+- 💬 &nbsp; About me: Loved to explore ♥️⚽ and Gaming 😎🎮!
+- :email: &nbsp; Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-VijayKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vijay-kumar-75a92h/)](https://www.linkedin.com/in/vijay-kumar-75a92h/)
+|
+[![Gmail Badge](https://img.shields.io/badge/-Vijay8953vk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Vijay8953vk@gmail.com)](mailto:Vijay8953vk@gmail.com)
 
-- - 📫 How to reach me **vijay8953vk@gmail.com**
 
 <h3 align="left">Languages & Tools:</h3>
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
