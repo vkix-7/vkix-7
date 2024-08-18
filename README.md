@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/71772559/116590419-1b64a780-a8f4-11eb-9865-c50bd9dceeb0.png" width="100%" />
 <h1 align="center">HeY, I'm Vijay Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
-<h3 align="center">A passionate Software Engineer from India </h3>
+<h3 align="center">A passionate Learner from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vkix-7&label=Profile%20views&color=0e75b6&style=flat" alt="vkix-7" /> </p>
 
