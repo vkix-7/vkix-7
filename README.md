@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/vijaytwts7" target="blank"><img src="https://img.shields.io/twitter/follow/vijaytwts7?logo=twitter&style=for-the-badge" alt="vijaytwts7" /></a> </p>
 - 🌱 I’m currently learning **DSA and MERN Stack development**
 
-- 💬 Ask me about *React and Javascript*
+- 💬 DROPPED MY SOFTWARE DEVELOPMENT JOURNEYYY ::::: FUCK OFF THIS TOXIC CULTURE
 
 - ⚡ Fun fact **I am THALASSOPHILE Learner .**
 - 💬 &nbsp; About me: Loved to explore ♥️⚽ and Gaming 😎🎮!
